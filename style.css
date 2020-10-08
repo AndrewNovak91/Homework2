@@ -4,6 +4,16 @@ html {
 
 .jumbotron {
     height: 100vh;
+    background-color: black;
+    text-align: center;
+}
+
+.jumbotron h1 {
+    text-align: unset;
+}
+
+.jumbotron h2 {
+    text-align: unset;
 }
 
 
