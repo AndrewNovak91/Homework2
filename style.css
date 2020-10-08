@@ -2,10 +2,11 @@ html {
     scroll-behavior: smooth;
 }
 
-.jumbotron{
+.jumbotron {
     height: 100vh;
 }
 
-#sticky-footer {
-    flex-shrink: none;
+
+.sticky-footer {
+    flex-shrink: 0; 
 }
