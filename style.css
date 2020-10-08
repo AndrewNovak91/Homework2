@@ -5,3 +5,7 @@ html {
 .jumbotron{
     height: 100vh;
 }
+
+#sticky-footer {
+    flex-shrink: none;
+}
