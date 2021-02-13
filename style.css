@@ -5,16 +5,16 @@ html {
 .jumbotron {
   height: 100vh;
   background-color: black;
-  text-align: center;
   width: 100%;
+  opacity: 0.5;
 }
 
 .jumbotron h1 {
-  text-align: unset;
+  text-align: center;
 }
 
 .jumbotron h2 {
-  text-align: unset;
+  text-align: center;
 }
 
 .sticky-footer {
